@@ -1,0 +1,21 @@
+=================== My Linux Tech Diary ===================
+------------------------ Profile --------------------------
+Name    : <Your Name>
+Roll No : <Your Roll Number>
+
+------------------ Favorite Commands ----------------------
+1) <cmd1> - <purpose in one short line>
+2) <cmd2> - <purpose>
+3) <cmd3> - <purpose>
+4) <cmd4> - <purpose>
+5) <cmd5> - <purpose>
+
+------------------------- Logbook -------------------------
+$ <command you actually ran>
+$ <command>
+$ <command>
+$ <command>
+$ <command>
+
+"Keep learning, keep growing!"
+===========================================================
